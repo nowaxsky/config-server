@@ -1,0 +1,3 @@
+#logging file
+logging:
+  file: D:/zwl/logs/zuul/zuul.log
