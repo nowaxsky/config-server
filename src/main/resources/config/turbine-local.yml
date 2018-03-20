@@ -1,7 +1,3 @@
-#logging file
-logging: 
-  file: D:/zwl/logs/turbine/turbine.log
-  
 #turbine
 turbine:
   appConfig: TEST-SERVICE
